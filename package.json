@@ -11,9 +11,9 @@
     "url": "https://github.com/tangly1024/NotionNext.git"
   },
   "author": {
-    "name": "tangly",
-    "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "name": "Timeink",
+    "email": "",
+    "url": "https://blog.timeink.fun"
   },
   "scripts": {
     "dev": "next dev",
@@ -52,6 +52,7 @@
     "@clerk/nextjs": "^5.7.5",
     "@headlessui/react": "^1.7.19",
     "@next/bundle-analyzer": "^12.3.7",
+    "@tabler/icons-react": "^3.36.1",
     "@vercel/analytics": "^1.5.0",
     "algoliasearch": "^4.25.2",
     "axios": "^1.7.2",
@@ -70,7 +71,8 @@
     "react-hotkeys-hook": "^4.6.2",
     "react-notion-x": "7.7.1",
     "react-share": "^5.2.2",
-    "react-tweet-embed": "~2.0.0"
+    "react-tweet-embed": "~2.0.0",
+    "remixicon-react": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "22.15.3",
