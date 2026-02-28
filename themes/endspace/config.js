@@ -46,7 +46,7 @@ const CONFIG = {
   ENDSPACE_LOADING_TEXT_FADEOUT: 'WELCOME', // 淡出阶段显示的文字
   
   // 加载动画中的图片，可以使用public目录下的图片如'/images/logo.png'，也可以使用url如https://example.com/image.png
-  ENDSPACE_LOADING_IMAGE: '/svg/cloud.svg', // 加载动画中显示的图片
+  ENDSPACE_LOADING_IMAGE: 'https://file.notion.so/f/f/8fd3625a-262b-40f3-a7b4-bfe6eff1ac34/51dd170f-b3ae-4e61-89fd-38e033bb13d9/cloud.svg?table=block&id=3152b48b-2d4b-80f7-8446-fbcba25cda4c&spaceId=8fd3625a-262b-40f3-a7b4-bfe6eff1ac34&expirationTimestamp=1772301600000&signature=gjIgjF9W8q0oXOJEjfRWh__hDvn8uecahV6h8spj49o&downloadName=cloud.svg', // 加载动画中显示的图片
 
   // ============================================
   // 水印文字配置 (Watermark Text)
